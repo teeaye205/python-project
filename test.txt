@@ -1,1 +1,2 @@
 Front-End branch first change
+Second line of entry for the second commit
